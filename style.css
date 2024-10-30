@@ -11,8 +11,6 @@ header {
     margin-top: 50px;
     padding-top: 200px;
     padding-bottom: 200px;
-    margin-right: 0;
-    margin-left: 0;
     text-transform: uppercase;
     border-bottom: 30px;
     border-color: #303030;
@@ -20,10 +18,16 @@ header {
 
 nav {
     background-calor: #303030;
+    padding-top: 40px;
+    padding-bottom: 40px;
 
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
 h1{
     font-weight: 800;
-    font-size: 7rem;
+    font-size: 7.5rem;
 }
