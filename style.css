@@ -21,13 +21,25 @@ nav {
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 50px;
+    color: #F1F1F1;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 1.8rem;
+}
 
+footer {
+    background-color: #303030;
+    color: #F1F1F1;
+    font-weight: 400;
+    font-size: 1.8rem;
 }
 
 img {
     width: 100%;
     height: auto;
+    margin-bottom: 20px;
 }
+
 h1{
     font-weight: 800;
     font-size: 7.5rem;
