@@ -8,7 +8,6 @@ body {
 
 header {
     background-color: #FF4949;
-    margin-top: 50px;
     text-transform: uppercase;
     border-bottom: 30px;
     border-color: #303030;
@@ -21,7 +20,7 @@ nav {
     margin-bottom: 50px;
     color: #F1F1F1;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 100;
     font-size: 1.8rem;
 }
 
@@ -36,4 +35,26 @@ img {
     width: 100%;
     height: auto;
     margin-bottom: 20px;
+}
+
+a:link {
+    color: #F1F1F1;
+    text-decoration: none;
+}
+a:visited {
+    color: #F1F1F1;
+}
+a:hover {
+    color: #FF4949;
+    font-weight: 400;
+}
+a:active {
+    color: red;
+}
+
+.udev {
+    font-weight: 800;
+    font-size: 7.8rem;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
