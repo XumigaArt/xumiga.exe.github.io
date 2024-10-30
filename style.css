@@ -13,6 +13,10 @@ header {
     border-color: #303030;
 }
 
+header a:hover {
+    background-color: #F1F1F1;
+}
+
 nav {
     background-color: #303030;
     padding-top: 20px;
@@ -22,6 +26,26 @@ nav {
     text-transform: uppercase;
     font-weight: 100;
     font-size: 1.8rem;
+}
+
+main {
+    margin-top: 15rem;
+}
+
+main p {
+    text-align: left;
+    color: #303030;
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin-right: 4rem;
+}
+
+main h2 {
+    text-align: left;
+    color: #303030;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 3rem;
 }
 
 footer {
