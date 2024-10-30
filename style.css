@@ -29,14 +29,32 @@ footer {
     color: #F1F1F1;
     font-weight: 400;
     font-size: 1.8rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 
 footer .socials {
     width: 5%;
     height: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
     fill: #F1F1F1;
+}
+
+footer .line {
+    background-color: #F1F1F1;
+    padding-top: 0.1rem;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+}
+
+footer .latline {
+    background-color: #F1F1F1;
+    height: 0.1rem;
+    align-content: center;
+    margin-top: 2%;
 }
 
 img {
