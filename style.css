@@ -34,7 +34,9 @@ footer {
 footer .socials {
     width: 5%;
     height: auto;
-
+    margin-top: 20px;
+    margin-bottom: 20px;
+    fill: #F1F1F1;
 }
 
 img {
