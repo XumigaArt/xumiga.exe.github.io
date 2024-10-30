@@ -31,6 +31,12 @@ footer {
     font-size: 1.8rem;
 }
 
+footer .socials {
+    width: 5%;
+    height: auto;
+
+}
+
 img {
     width: 100%;
     height: auto;
