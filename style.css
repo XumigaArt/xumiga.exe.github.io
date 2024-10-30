@@ -1,0 +1,29 @@
+body {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    background-color: #F1F1F1;
+}
+
+header {
+    background-color: #FF4949;
+    margin-top: 50px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin-right: 0;
+    margin-left: 0;
+    text-transform: uppercase;
+    border-bottom: 30px;
+    border-color: #303030;
+}
+
+nav {
+    background-calor: #303030;
+
+}
+
+h1{
+    font-weight: 800;
+    font-size: 7rem;
+}
