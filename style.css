@@ -112,3 +112,12 @@ a:active {
 h2 {
     color: white;
 }
+
+.abouttext {
+    margin-bottom: 3rem;
+}
+
+.aboutimg {
+    margin-bottom: 3rem;
+    margin-top: 4rem;
+}
